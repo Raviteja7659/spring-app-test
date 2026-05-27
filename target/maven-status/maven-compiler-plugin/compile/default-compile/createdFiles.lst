@@ -1,2 +1,4 @@
 com\example\demo\DemoApplication.class
+com\example\demo\StudentController.class
 com\example\demo\HelloController.class
+com\example\demo\Student.class
